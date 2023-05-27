@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126621920379",
+    "project_id": "memorygamebymikhnevskyyevgeniy",
+    "storage_bucket": "memorygamebymikhnevskyyevgeniy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126621920379:android:c9fafe1c07e23ce1bb46de",
+        "android_client_info": {
+          "package_name": "com.example.memorygamebymikhnevskyyevgeniy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_N_2G2bqkVRgSB2ngPnu_KRNrMllOr5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
